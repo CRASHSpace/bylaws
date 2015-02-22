@@ -22,5 +22,5 @@ tagline: where we keep the bylaws
 <p>If you have questions, please check out <a href="http://www.crashspace.org">http://www.crashspace.org</a></p>
 
 <p>This project is maintained by <a href="https://github.com/CRASHSpace">CRASHSpace</a></p>
-<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+<p><small>Hosted on GitHub Pages &mdash;</small></p>
 

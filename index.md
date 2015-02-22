@@ -1,46 +1,26 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Welcome to the bylaws
+tagline: where we keep the bylaws
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<H2>Welcome to The CRASH Space Bylaws Repo</H2>
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+<p>We are a big believer in open governance, and we are a hackerspace, so what better way to manage our docs than in version control. </p>
 
-## Update Author Attributes
+<h3>How To Navigate</h3>
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+<p>They links to each article can be found on the "Articles" link in the navigation bar above.</p>
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+<h3>Authors and Contributors</h3>
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+<p>Carlyn Maw headed the original push for these bylaws back in 2011. They are very tightly based off of Noisebridge's.  After working sessions that included  Sean Bonner,  Steve Goldstein, Tod Kurt, Matt Pinner, Levi Simmons, Theron Trowbridge and others, she worked heavily with Tom Wrobel of the non-profit legal center to make sure they said what we wanted them to say before we submitted them to the IRS with our 1023 form. </p>
 
-    $ rm -rf _posts/core-samples
+<h3>Support or Contact</h3>
 
-Here's a sample "posts list".
+<p>If you have questions, please check out <a href="http://www.crashspace.org">http://www.crashspace.org</a></p>
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
+<p>This project is maintained by <a href="https://github.com/CRASHSpace">CRASHSpace</a></p>
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
 

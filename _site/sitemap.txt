@@ -1,0 +1,8 @@
+
+http://crashspace.github.io/bylaws//atom.xml
+http://crashspace.github.io/bylaws//categories.html
+http://crashspace.github.io/bylaws//index.html
+http://crashspace.github.io/bylaws//rss.xml
+http://crashspace.github.io/bylaws//sitemap.txt
+
+http://crashspace.github.io/bylaws//lessons/2011/12/29/jekyll-introduction
